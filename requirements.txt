@@ -1,0 +1,7 @@
+asyncio==4.0.0
+Websockets==16.1
+ssl
+json
+Path
+datetime
+cryptography==49.0.0
